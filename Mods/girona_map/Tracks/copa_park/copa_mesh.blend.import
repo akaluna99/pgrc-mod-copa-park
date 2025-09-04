@@ -1,0 +1,161 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://dw33ew6ui1iic"
+path="res://.godot/imported/copa_mesh.blend-6120faa5232c90f9a4f8e7ed2ec1d1fd.scn"
+
+[deps]
+
+source_file="res://Mods/girona_map/Tracks/copa_park/copa_mesh.blend"
+dest_files=["res://.godot/imported/copa_mesh.blend-6120faa5232c90f9a4f8e7ed2ec1d1fd.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={
+"materials": {
+"bark": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/platan_shader.tres"
+},
+"bk": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/bk_shader.tres"
+},
+"grass": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/grass_shader.tres"
+},
+"hedge": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/hedge_shader.tres"
+},
+"impreso": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/impreso_shader.tres"
+},
+"parking": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/parking_shader.tres"
+},
+"pavement": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/pavement_shader.tres"
+},
+"platan_fulles": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/platan_fulles_shader.tres"
+},
+"sidewalk": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/sidewalk_shader.tres"
+},
+"tracks": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/train_shader.tres"
+}
+},
+"nodes": {
+"PATH:Cube_001": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_002": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_003": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_004": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_005": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_006": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_007": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Cube_008": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Plane": {
+"generate/physics": true,
+"physics/layer": 1024,
+"physics/shape_type": 2
+},
+"PATH:hedge": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:hedge_001": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:hedge_002": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:road": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:rotonda": {
+"generate/physics": true,
+"physics/layer": 32,
+"physics/shape_type": 1
+},
+"PATH:rotonda2": {
+"generate/physics": true,
+"physics/layer": 128,
+"physics/shape_type": 2
+},
+"PATH:tree_001": {
+"import/skip_import": true
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1
+blender/nodes/visible=0
+blender/nodes/punctual_lights=true
+blender/nodes/cameras=true
+blender/nodes/custom_properties=true
+blender/nodes/modifiers=1
+blender/meshes/colors=false
+blender/meshes/uvs=true
+blender/meshes/normals=true
+blender/meshes/tangents=true
+blender/meshes/skins=2
+blender/meshes/export_bones_deforming_mesh_only=false
+blender/materials/unpack_enabled=true
+blender/materials/export_materials=1
+blender/animation/limit_playback=true
+blender/animation/always_sample=true
+blender/animation/group_tracks=true

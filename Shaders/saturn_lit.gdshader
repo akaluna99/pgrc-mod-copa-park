@@ -3,6 +3,7 @@ render_mode blend_mix,
 	depth_prepass_alpha,
 	shadows_disabled,
 	specular_disabled,
+	cull_disabled,
 	unshaded;
 
 uniform bool affine_mapping = true;

@@ -1,8 +1,8 @@
 [gd_scene load_steps=10 format=3 uid="uid://debj0mn5tcivu"]
 
 [ext_resource type="Script" path="res://Mods/Scripts/ModTrackThumbnail.gd" id="1_xhvmg"]
-[ext_resource type="PackedScene" uid="uid://dp7e7e4jrfb5o" path="res://Mods/walaber_sample/Tracks/sample_track/sample_track.glb" id="2_j151g"]
-[ext_resource type="Material" uid="uid://ci0wrahjtap80" path="res://Mods/walaber_sample/Tracks/sample_track/sample_track_diffuse_thumbnail.tres" id="3_60hbk"]
+[ext_resource type="PackedScene" uid="uid://dp7e7e4jrfb5o" path="res://Mods/girona_map/Tracks/sample_track/sample_track.glb" id="2_j151g"]
+[ext_resource type="Material" uid="uid://ci0wrahjtap80" path="res://Mods/girona_map/Tracks/sample_track/sample_track_diffuse_thumbnail.tres" id="3_60hbk"]
 [ext_resource type="PackedScene" uid="uid://cxmqh8d5hw8m" path="res://Mods/Placeholders/Models/arrow-barrier-one-way.glb" id="3_f36xi"]
 [ext_resource type="PackedScene" uid="uid://kxc8kppnmhm2" path="res://Mods/Placeholders/Models/railing-barrier-banner-1.glb" id="4_8wvfm"]
 [ext_resource type="Material" uid="uid://bo2vvto7t361q" path="res://Mods/Placeholders/Materials/thumbnail_arrow.tres" id="4_e4vuy"]

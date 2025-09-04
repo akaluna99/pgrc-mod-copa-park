@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dp7e7e4jrfb5o"
-path="res://.godot/imported/sample_track.glb-21c3631ff44a7e5290846a75da2444b4.scn"
+path="res://.godot/imported/sample_track.glb-12ac89b0bb3dbef7622c3ed26d63469d.scn"
 
 [deps]
 
-source_file="res://Mods/walaber_sample/Tracks/sample_track/sample_track.glb"
-dest_files=["res://.godot/imported/sample_track.glb-21c3631ff44a7e5290846a75da2444b4.scn"]
+source_file="res://Mods/girona_map/Tracks/sample_track/sample_track.glb"
+dest_files=["res://.godot/imported/sample_track.glb-12ac89b0bb3dbef7622c3ed26d63469d.scn"]
 
 [params]
 

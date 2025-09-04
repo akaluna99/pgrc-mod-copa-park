@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dklvt6eduhh0v"]
+
+[ext_resource type="Texture2D" uid="uid://d3ig53ego54ex" path="res://Mods/girona_map/Tracks/copa_park/textures/bk.png" id="1_rbgs8"]
+
+[resource]
+resource_name = "bk"
+cull_mode = 2
+shading_mode = 2
+albedo_texture = ExtResource("1_rbgs8")
+roughness = 0.5
