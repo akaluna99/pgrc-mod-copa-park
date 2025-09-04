@@ -83,6 +83,9 @@ transform = Transform3D(0.04, 0, 0, 0, 0.04, 0, 0, 0, 0.04, 0, 0, 0)
 [node name="bk" parent="copa_mesh" index="3"]
 visible = false
 
+[node name="Plane_005" parent="copa_mesh" index="38"]
+visible = false
+
 [editable path="sample_track"]
 [editable path="arrow-barrier-one-way2"]
 [editable path="railing-barrier-banner-1"]

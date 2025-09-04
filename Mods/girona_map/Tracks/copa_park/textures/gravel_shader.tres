@@ -1,7 +1,7 @@
 [gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://b663gd8iim32d"]
 
 [ext_resource type="Shader" path="res://Shaders/saturn_lit.gdshader" id="1_utvfl"]
-[ext_resource type="Texture2D" uid="uid://bf0dbslck51ak" path="res://Mods/girona_map/Tracks/copa_park/textures/platan.jpg" id="2_irjqi"]
+[ext_resource type="Texture2D" uid="uid://ei3164i2obqe" path="res://Mods/girona_map/Tracks/copa_park/textures/gravel_ground_01_diff_1k.webp" id="2_xp8lh"]
 
 [resource]
 render_priority = 0
@@ -28,4 +28,4 @@ shader_parameter/fog_color = Color(1, 1, 1, 1)
 shader_parameter/fog_dist_range = Vector2(100, 200)
 shader_parameter/fog_intensity_range = Vector2(0, 0.4)
 shader_parameter/fog_value_range = 64
-shader_parameter/main_texture = ExtResource("2_irjqi")
+shader_parameter/main_texture = ExtResource("2_xp8lh")

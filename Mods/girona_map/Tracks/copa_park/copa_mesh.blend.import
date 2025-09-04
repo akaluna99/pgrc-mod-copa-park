@@ -31,6 +31,10 @@ animation/remove_immutable_tracks=true
 import_script/path=""
 _subresources={
 "materials": {
+"aigua": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/water_shader.tres"
+},
 "bark": {
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/platan_shader.tres"
@@ -42,6 +46,10 @@ _subresources={
 "grass": {
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/grass_shader.tres"
+},
+"gravel": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/gravel_shader.tres"
 },
 "hedge": {
 "use_external/enabled": true,
@@ -135,9 +143,6 @@ _subresources={
 "generate/physics": true,
 "physics/layer": 128,
 "physics/shape_type": 2
-},
-"PATH:tree_001": {
-"import/skip_import": true
 }
 }
 }

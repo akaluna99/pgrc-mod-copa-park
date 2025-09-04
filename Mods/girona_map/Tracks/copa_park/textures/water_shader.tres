@@ -6,14 +6,14 @@
 [resource]
 render_priority = 0
 shader = ExtResource("1_icahl")
-shader_parameter/affine_mapping = true
+shader_parameter/affine_mapping = false
 shader_parameter/affine_effect_reduction = 1.0
 shader_parameter/albedo_color = Color(1, 1, 1, 1)
 shader_parameter/uv_min = Vector2(-999, -999)
 shader_parameter/uv_max = Vector2(999, 999)
 shader_parameter/vert_color_gamma = 1.0
-shader_parameter/vert_color_mult = 0.635
-shader_parameter/vert_color_gain = 0.0
+shader_parameter/vert_color_mult = 0.435
+shader_parameter/vert_color_gain = -0.185
 shader_parameter/vert_color_factor = 1.0
 shader_parameter/vert_color_range = 64
 shader_parameter/culling_on = false
