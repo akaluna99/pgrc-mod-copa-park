@@ -1,0 +1,31 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://cvp7o6lx7jeid"]
+
+[ext_resource type="Shader" path="res://Shaders/saturn_lit.gdshader" id="1_6jeo6"]
+[ext_resource type="Texture2D" uid="uid://c4jgjhtmr2e4o" path="res://Mods/girona_map/Tracks/copa_park/textures/roof_brown_08-128x128.png" id="2_3uem8"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_6jeo6")
+shader_parameter/affine_mapping = true
+shader_parameter/affine_effect_reduction = 1.0
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
+shader_parameter/uv_min = Vector2(-999, -999)
+shader_parameter/uv_max = Vector2(999, 999)
+shader_parameter/vert_color_gamma = 1.0
+shader_parameter/vert_color_mult = 1.0
+shader_parameter/vert_color_gain = 0.0
+shader_parameter/vert_color_factor = 1.0
+shader_parameter/vert_color_range = 64
+shader_parameter/culling_on = false
+shader_parameter/cull_bias = 0.0
+shader_parameter/cull_near_far = 0.0
+shader_parameter/cull_pop_factor = 0.0
+shader_parameter/dir_light_contrib_range = Vector2(0.3, 1)
+shader_parameter/grid_culling = false
+shader_parameter/grid_size = 8.0
+shader_parameter/fog_on = false
+shader_parameter/fog_color = Color(1, 1, 1, 1)
+shader_parameter/fog_dist_range = Vector2(100, 500)
+shader_parameter/fog_intensity_range = Vector2(0, 0.4)
+shader_parameter/fog_value_range = 64
+shader_parameter/main_texture = ExtResource("2_3uem8")

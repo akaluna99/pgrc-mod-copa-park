@@ -43,6 +43,26 @@ _subresources={
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/bk_shader.tres"
 },
+"catedral": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/girona_cathedral.tres"
+},
+"edifici_1": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/edifici_1.tres"
+},
+"edifici_2": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/edifici_2.tres"
+},
+"edifici_3": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/edifici_3.tres"
+},
+"forest": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/trees.tres"
+},
 "grass": {
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/grass_shader.tres"
@@ -59,6 +79,10 @@ _subresources={
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/impreso_shader.tres"
 },
+"onyar": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/cases_onyar.tres"
+},
 "parking": {
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/parking_shader.tres"
@@ -71,9 +95,21 @@ _subresources={
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/platan_fulles_shader.tres"
 },
+"roof": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/roof.tres"
+},
 "sidewalk": {
 "use_external/enabled": true,
 "use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/sidewalk_shader.tres"
+},
+"st_feliu1": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/esglesia_Sant_feliu1.tres"
+},
+"st_feliu2": {
+"use_external/enabled": true,
+"use_external/path": "res://Mods/girona_map/Tracks/copa_park/textures/esglesia_Sant_feliu2.tres"
 },
 "tracks": {
 "use_external/enabled": true,
@@ -117,6 +153,9 @@ _subresources={
 "generate/physics": true,
 "physics/layer": 1024,
 "physics/shape_type": 2
+},
+"PATH:bk": {
+"import/skip_import": true
 },
 "PATH:hedge": {
 "generate/physics": true,
