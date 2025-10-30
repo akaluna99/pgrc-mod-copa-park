@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://f0bk7f1y3faq"
-path="res://.godot/imported/minedump_flats.webp-0ac6f48dc96c8a7fb2d12e02e22f6d37.ctex"
+uid="uid://bn68p8dqa6e8i"
+path="res://.godot/imported/thumbnail.jpg-d358d0a2913652d1270a4fe632e583c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/girona_map/Tracks/sample_track/minedump_flats.webp"
-dest_files=["res://.godot/imported/minedump_flats.webp-0ac6f48dc96c8a7fb2d12e02e22f6d37.ctex"]
+source_file="res://Mods/girona_map/thumbnail.jpg"
+dest_files=["res://.godot/imported/thumbnail.jpg-d358d0a2913652d1270a4fe632e583c1.ctex"]
 
 [params]
 
